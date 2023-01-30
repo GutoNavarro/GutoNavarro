@@ -1,4 +1,8 @@
- Hi
+ Hi guys! I am Gustavo Navarro. 👋🏽
+ 
+ - 👨🏽‍💻 Today I am looking for my first job in the front-end area
+ - 📖 Currently attending college at UNICID in Systems Analysis and Development
+ - 👨🏽pronoun: he/him
 
   <div align="center">
   <a href="https://github.com/GutoNavarro">
