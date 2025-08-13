@@ -1,7 +1,7 @@
  Hi guys! I am Gustavo Navarro. 👋🏽
  
  - 👨🏽‍💻 Today I am looking for my first job in the front-end area
- - 📖 Currently attending college at UNICID in Systems Analysis and Development
+ - 📖 Currently studying at Cruzeiro do Sul University, distance learning in Computer Science.
  - 👨🏽pronoun: he/him
 
   <div align="center">
