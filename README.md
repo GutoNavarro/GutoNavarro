@@ -1,8 +1,10 @@
  Hi guys! I am Gustavo Navarro. 👋🏽
  
- - 👨🏽‍💻 Today I am looking for my first job in the front-end area
- - 📖 Currently studying at Cruzeiro do Sul University, distance learning in Computer Science.
- - 👨🏽pronoun: he/him
+- 👨🏽‍💻 Front-End Developer.
+- 💼 I currently work as a customer service assistant and administrative services assistant.
+- 📖 I am currently studying at Cruzeiro do Sul University, distance learning in Computer Science.
+- 👨🏽 Pronoun: he/him.
+
 
   <div align="center">
   <a href="https://github.com/GutoNavarro">
